@@ -1,6 +1,5 @@
 # AI-Chatbot
 
 
-to run this 
-go to browser and type 
+to run this visit
 https://ai-chatbot-vsit.onrender.com/
